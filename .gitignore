@@ -1,0 +1,8 @@
+venv/
+ThoughtSource/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
