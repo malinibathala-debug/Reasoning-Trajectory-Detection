@@ -72,7 +72,7 @@ Unique question groups: 399
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/malinibathala-debug/Reasoning-Trajectory-Detection.git
 ```
 
 ### 2. Navigate to the project folder
